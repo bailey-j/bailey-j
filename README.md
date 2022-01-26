@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 📖 I’m currently working on 100 days of code! Building skill strength!
+- 🌱 I’m currently (re)learning Web Technologies (React, TypeScript & APIs), Selenium, & Android. Excited!
+- 💬 Ask me about QA (Karate, Selenium), CMS (Joomla, Wordpress), AI & ML (Python & PyTorch), IoT (Raspberry Pi & Libelium) and Mobile Apps (Java Android)
+- 💁‍♀️ Pronouns: she/her
+- 🌴 Fun fact: The Caribbean is named after my ancestors, the Caribs (more accurately known as Kalinago) 
+
 <!--
 **bailey-j/bailey-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
