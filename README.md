@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📖 I’m currently working on 100 days of code! Building skill strength!
+- 📖 I’m currently working on learning Java and Python in depth! Building skill strength!
 - 🌱 I’m currently (re)learning Web Technologies (React, TypeScript & APIs), Selenium, & Android. Excited!
 - 💬 Ask me about QA (Karate, Selenium), CMS (Joomla, Wordpress), AI & ML (Python & PyTorch), IoT (Raspberry Pi & Libelium) and Mobile Apps (Java Android)
 - 💁‍♀️ Pronouns: she/her
