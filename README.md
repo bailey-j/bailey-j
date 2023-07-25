@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 📖 I’m currently working on learning Java and Python in depth! Building skill strength!
-- 🌱 I’m currently (re)learning Web Technologies (React, TypeScript & APIs), Selenium, & Android. Excited!
-- 💬 Ask me about QA (Karate, Selenium), CMS (Joomla, Wordpress), AI & ML (Python & PyTorch), IoT (Raspberry Pi & Libelium) and Mobile Apps (Java Android)
-- 💁‍♀️ Pronouns: she/her
+- 🌱 I’m currently (re)learning Data Analysis and ML.
+- 💬 Talk to me about QA (Karate, Selenium), CMS (Joomla, Wordpress), AI & ML (Python & PyTorch), IoT (Raspberry Pi & Libelium) and Mobile Apps (Java Android)
 - 🌴 Fun fact: The Caribbean is named after my ancestors, the Caribs (more accurately known as Kalinago) 
 
 <!--
