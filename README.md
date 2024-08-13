@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 📖 I’m currently working on learning Java and Python in depth! Building skill strength!
-- 🌱 I’m currently (re)learning Data Analysis and ML.
-- 💬 Talk to me about QA (Karate, Selenium), CMS (Joomla, Wordpress), AI & ML (Python & PyTorch), IoT (Raspberry Pi & Libelium) and Mobile Apps (Java Android)
-- 🌴 Fun fact: The Caribbean is named after my ancestors, the Caribs (more accurately known as Kalinago) 
+- 📖 I’m currently working on learning AWS in depth! Building skill strength!
+- 🌱 I’m currently (re)learning Data Analysis skills.
+- 🌴 Fun fact: The Caribbean is named after my ancestors, the Caribs (sometimes known as Kalinago) 
 
 <!--
 **bailey-j/bailey-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
