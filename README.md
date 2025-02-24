@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 📖 I’m currently working on learning AWS in depth! Building skill strength!
-- 🌱 I’m currently (re)learning Data Analysis skills.
+- 🌱 I’m also (re)learning Data & AI skills.
+  Loading...
 - 🌴 Fun fact: The Caribbean is named after my ancestors, the Caribs (sometimes known as Kalinago) 
 
 <!--
